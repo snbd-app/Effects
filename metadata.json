@@ -1,0 +1,159 @@
+{
+  "color" : "AD2380",
+  "sounds" : [
+    {
+      "audioSource" : "jacksonacademyashmore - https:\/\/freesound.org\/people\/jacksonacademyashmore\/sounds\/414208\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Airhorn",
+      "image" : "megaphone.fill",
+      "color" : "FF3B30"
+    },
+    {
+      "audioSource" : "Gronkjaer - https:\/\/freesound.org\/people\/Gronkjaer\/sounds\/654321\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Answer Correct",
+      "image" : "👍",
+      "color" : "34C759"
+    },
+    {
+      "audioSource" : "-Andreas - https:\/\/freesound.org\/people\/-Andreas\/sounds\/648462\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Answer Incorrect",
+      "image" : "👎",
+      "color" : "FF3B30"
+    },
+    {
+      "audioSource" : "Yin_Yang_Jake007 - https:\/\/freesound.org\/people\/Yin_Yang_Jake007\/sounds\/415298\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Bicycle Bell",
+      "image" : "🚲",
+      "color" : "FFCC00"
+    },
+    {
+      "audioSource" : "juskiddink - https:\/\/freesound.org\/people\/juskiddink\/sounds\/140867\/ - This work is licensed under the Creative Attribution 3.0",
+      "name" : "Boing",
+      "image" : "arrowshape.bounce.right.fill",
+      "color" : "ED75B6"
+    },
+    {
+      "audioSource" : "Benboncan - https:\/\/freesound.org\/people\/Benboncan\/sounds\/66951\/ -  This work is licensed under the Creative Attribution 4.0",
+      "name" : "Boxing Bell",
+      "image" : "🥊",
+      "color" : "FF3B30"
+    },
+    {
+      "audioSource" : "LittleRainySeasons - https:\/\/freesound.org\/people\/LittleRainySeasons\/sounds\/335905\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Clock Tick",
+      "image" : "🕰",
+      "color" : "ADADAD"
+    },
+    {
+      "audioSource" : "AUDACITIER - https:\/\/freesound.org\/people\/AUDACITIER\/sounds\/632129\/ - This work is licensed under the Creative Attribution 4",
+      "name" : "Door Close",
+      "image" : "door.right.hand.closed",
+      "color" : "007AFF"
+    },
+    {
+      "audioSource" : "AUDACITIER - https:\/\/freesound.org\/people\/AUDACITIER\/sounds\/632128\/ - This work is licensed under the Creative Attribution 4",
+      "name" : "Door Open",
+      "image" : "door.right.hand.open",
+      "color" : "007AFF"
+    },
+    {
+      "audioSource" : "kwahmah_02 - https:\/\/freesound.org\/people\/kwahmah_02\/sounds\/275072\/ - This work is licensed under the Creative Attribution 3.0",
+      "name" : "Doorbell",
+      "image" : "🚪",
+      "color" : "FF9500"
+    },
+    {
+      "audioSource" : "Heigh-hoo - https:\/\/freesound.org\/people\/Heigh-hoo\/sounds\/52760\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Drumroll",
+      "image" : "🥁",
+      "color" : "FFCC00"
+    },
+    {
+      "name" : "Explosion",
+      "color" : "A06B23",
+      "image" : "🧨"
+    },
+    {
+      "audioSource" : "kuchtaa - https:\/\/freesound.org\/people\/kuchtaa\/sounds\/555418\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Fart",
+      "image" : "wind.circle",
+      "color" : "EE82E4"
+    },
+    {
+      "audioSource" : "GowlerMusic - https:\/\/freesound.org\/people\/GowlerMusic\/sounds\/266566\/ - This work is licensed under the Creative Attribution 3.0",
+      "name" : "Gong",
+      "image" : "0.circle.fill.ar",
+      "color" : "734C16"
+    },
+    {
+      "audioSource" : "gflower - https:\/\/freesound.org\/people\/gflower\/sounds\/179303\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Kiss",
+      "image" : "💋",
+      "color" : "C45FF6"
+    },
+    {
+      "audioSource" : "acclivity - https:\/\/freesound.org\/people\/acclivity\/sounds\/28283\/ - This work is licensed under the Creative Attribution 4",
+      "name" : "Rain",
+      "image" : "🌧",
+      "color" : "007AFF"
+    },
+    {
+      "name" : "Record Scratch",
+      "color" : "5C5C5C",
+      "image" : "opticaldisc.fill"
+    },
+    {
+      "audioSource" : "InspectorJ - https:\/\/freesound.org\/people\/InspectorJ\/sounds\/439472\/ - This work is licensed under the Creative Attribution 3.0 ",
+      "name" : "Rooster",
+      "image" : "🐓",
+      "color" : "FF3B30"
+    },
+    {
+      "audioSource" : "deleted_user_7020630 - https:\/\/freesound.org\/people\/deleted_user_7020630\/sounds\/378394\/ - This work is licensed under the Creative Attribution 3.0",
+      "name" : "School Bell ",
+      "image" : "🏫",
+      "color" : "34C759"
+    },
+    {
+      "audioSource" : "JonasTisell - https:\/\/freesound.org\/people\/JonasTisell\/sounds\/442257\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Slap",
+      "image" : "✋",
+      "color" : "FFCC00"
+    },
+    {
+      "audioSource" : "survivalzombie - https:\/\/freesound.org\/people\/survivalzombie\/sounds\/240015\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Squeeze Toy",
+      "image" : "🧸",
+      "color" : "FF9500"
+    },
+    {
+      "audioSource" : "lorenzgillner - https:\/\/freesound.org\/people\/lorenzgillner\/sounds\/274448\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Toilet Flush",
+      "image" : "🚽",
+      "color" : "007AFF"
+    },
+    {
+      "audioSource" : "binxa - https:\/\/freesound.org\/people\/binxa\/sounds\/595834\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Typing",
+      "image" : "⌨️",
+      "color" : "D44A7A"
+    },
+    {
+      "audioSource" : "hermengarde - https:\/\/freesound.org\/people\/hermengarde\/sounds\/235845\/ - This work is licensed under the Creative Attribution 0",
+      "name" : "Whistle",
+      "image" : "😮‍💨",
+      "color" : "A06B23"
+    },
+    {
+      "audioSource" : "indigosierra - https:\/\/freesound.org\/people\/indigosierra\/sounds\/82610\/ - This work is licensed under the Creative Attribution 0 ",
+      "name" : "Writing",
+      "image" : "✏️",
+      "color" : "C2C2C2"
+    }
+  ],
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "name" : "Sound Effects",
+  "image" : "wand.and.stars.inverse",
+  "duration" : 169,
+  "size" : 16067984,
+  "description" : "A sample collection of general sounds from all different places and things."
+}
