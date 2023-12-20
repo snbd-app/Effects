@@ -151,7 +151,7 @@
     }
   ],
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
-  "name" : "Sound Effects",
+  "name" : "Effects",
   "image" : "wand.and.stars.inverse",
   "duration" : 169,
   "size" : 16067984,
