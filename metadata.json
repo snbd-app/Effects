@@ -2,67 +2,67 @@
   "color" : "AD2380",
   "sounds" : [
     {
-      "audioSource" : "jacksonacademyashmore - https:\/\/freesound.org\/people\/jacksonacademyashmore\/sounds\/414208\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[Airhorn](https://freesound.org/people/jacksonacademyashmore/sounds/414208/) by [jacksonacademyashmore](https://freesound.org/people/jacksonacademyashmore/) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Airhorn",
       "image" : "megaphone.fill",
       "color" : "FF3B30"
     },
     {
-      "audioSource" : "Gronkjaer - https:\/\/freesound.org\/people\/Gronkjaer\/sounds\/654321\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[CorrectCh_New](https://freesound.org/people/Gronkjaer/sounds/654321/) by [Gronkjaer](https://freesound.org/people/Gronkjaer/) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Answer Correct",
       "image" : "👍",
       "color" : "34C759"
     },
     {
-      "audioSource" : "-Andreas - https:\/\/freesound.org\/people\/-Andreas\/sounds\/648462\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[Wrong Answer](https://freesound.org/people/-Andreas/sounds/648462/) by [-Andreas](https://freesound.org/people/-Andreas/) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Answer Incorrect",
       "image" : "👎",
       "color" : "FF3B30"
     },
     {
-      "audioSource" : "Yin_Yang_Jake007 - https:\/\/freesound.org\/people\/Yin_Yang_Jake007\/sounds\/415298\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[Bike Bell](https://freesound.org/people/Yin_Yang_Jake007/sounds/415298/) by [Yin_Yang_Jake007](https://freesound.org/people/Yin_Yang_Jake007/) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Bicycle Bell",
       "image" : "🚲",
       "color" : "FFCC00"
     },
     {
-      "audioSource" : "juskiddink - https:\/\/freesound.org\/people\/juskiddink\/sounds\/140867\/ - This work is licensed under the Creative Attribution 3.0",
+      "audioSource" : "[Boing](https://freesound.org/people/juskiddink/sounds/140867/) by [juskiddink](https://freesound.org/people/juskiddink/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
       "name" : "Boing",
       "image" : "arrowshape.bounce.right.fill",
       "color" : "ED75B6"
     },
     {
-      "audioSource" : "Benboncan - https:\/\/freesound.org\/people\/Benboncan\/sounds\/66951\/ -  This work is licensed under the Creative Attribution 4.0",
+      "audioSource" : "[Boxing Bell](https://freesound.org/people/Benboncan/sounds/66951/) by [Benboncan](https://freesound.org/people/Benboncan/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
       "name" : "Boxing Bell",
       "image" : "🥊",
       "color" : "FF3B30"
     },
     {
-      "audioSource" : "LittleRainySeasons - https:\/\/freesound.org\/people\/LittleRainySeasons\/sounds\/335905\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[Ticking](https://freesound.org/people/LittleRainySeasons/sounds/335905/) by [LittleRainySeasons](https://freesound.org/people/LittleRainySeasons/) is licensed under [CC BY 1.0](http://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Clock Tick",
       "image" : "🕰",
       "color" : "ADADAD"
     },
     {
-      "audioSource" : "AUDACITIER - https:\/\/freesound.org\/people\/AUDACITIER\/sounds\/632129\/ - This work is licensed under the Creative Attribution 4",
+      "audioSource" : "[Door Closing](https://freesound.org/people/AUDACITIER/sounds/632129/) by [AUDACITIER](https://freesound.org/people/AUDACITIER/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
       "name" : "Door Close",
       "image" : "door.right.hand.closed",
       "color" : "007AFF"
     },
     {
-      "audioSource" : "AUDACITIER - https:\/\/freesound.org\/people\/AUDACITIER\/sounds\/632128\/ - This work is licensed under the Creative Attribution 4",
+      "audioSource" : "[Door Opening](https://freesound.org/people/AUDACITIER/sounds/632128/) by [AUDACITIER](https://freesound.org/people/AUDACITIER/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
       "name" : "Door Open",
       "image" : "door.right.hand.open",
       "color" : "007AFF"
     },
     {
-      "audioSource" : "kwahmah_02 - https:\/\/freesound.org\/people\/kwahmah_02\/sounds\/275072\/ - This work is licensed under the Creative Attribution 3.0",
+      "audioSource" : "[Doorbell A](https://freesound.org/people/kwahmah_02/sounds/275072/) by [kwahmah_02](https://freesound.org/people/kwahmah_02) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)",
       "name" : "Doorbell",
       "image" : "🚪",
       "color" : "FF9500"
     },
     {
-      "audioSource" : "Heigh-hoo - https:\/\/freesound.org\/people\/Heigh-hoo\/sounds\/52760\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[drumroll_for_ceremony_long](https://freesound.org/people/Heigh-hoo/sounds/52760/) by [Heigh-hoo](https://freesound.org/people/Heigh-hoo) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Drumroll",
       "image" : "🥁",
       "color" : "FFCC00"
@@ -70,81 +70,84 @@
     {
       "name" : "Explosion",
       "color" : "A06B23",
+      "audioSource" : "[Huge Cinematic Explosion](https://freesound.org/people/musicace17/sounds/486551/) by [musicace17](https://freesound.org/people/musicace17) is licensed under [CC BY 1.0](http://creativecommons.org/publicdomain/zero/1.0/)",
       "image" : "🧨"
     },
     {
-      "audioSource" : "kuchtaa - https:\/\/freesound.org\/people\/kuchtaa\/sounds\/555418\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[wet fart](https://freesound.org/people/kuchtaa/sounds/555418/) by [kuchtaa](https://freesound.org/people/kuchtaa) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Fart",
       "image" : "wind.circle",
       "color" : "EE82E4"
     },
     {
-      "audioSource" : "GowlerMusic - https:\/\/freesound.org\/people\/GowlerMusic\/sounds\/266566\/ - This work is licensed under the Creative Attribution 3.0",
+      "audioSource" : "[Gong Hit](https://freesound.org/people/GowlerMusic/sounds/266566/) by [GowlerMusic](https://freesound.org/people/GowlerMusic) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
       "name" : "Gong",
       "image" : "0.circle.fill.ar",
       "color" : "734C16"
     },
     {
-      "audioSource" : "gflower - https:\/\/freesound.org\/people\/gflower\/sounds\/179303\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[perfect_kiss](https://freesound.org/people/gflower/sounds/179303/) by [gflower](https://freesound.org/people/gflower) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Kiss",
       "image" : "💋",
       "color" : "C45FF6"
     },
     {
-      "audioSource" : "acclivity - https:\/\/freesound.org\/people\/acclivity\/sounds\/28283\/ - This work is licensed under the Creative Attribution 4",
+      "audioSource" : "[Silencyo_CC_Rain on Window_Reverberant room_Medium Perspective](https://freesound.org/people/silencyo/sounds/81819/) by [silencyo](https://freesound.org/people/silencyo) is licensed under [CC BY 1.0](http://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Rain",
       "image" : "🌧",
-      "color" : "007AFF"
+      "color" : "007AFF",
+      "type" : "aiff"
     },
     {
       "name" : "Record Scratch",
       "color" : "5C5C5C",
+      "audioSource" : "[Clean Record Scratch](https://freesound.org/people/kwahmah_02/sounds/269476/) by [kwahmah_02](https://freesound.org/people/kwahmah_02) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)",
       "image" : "opticaldisc.fill"
     },
     {
-      "audioSource" : "InspectorJ - https:\/\/freesound.org\/people\/InspectorJ\/sounds\/439472\/ - This work is licensed under the Creative Attribution 3.0 ",
+      "audioSource" : "[Rooster Calling, Close,A](https://freesound.org/people/InspectorJ/sounds/439472/) by [InspectorJ](https://freesound.org/people/InspectorJ) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
       "name" : "Rooster",
       "image" : "🐓",
       "color" : "FF3B30"
     },
     {
-      "audioSource" : "deleted_user_7020630 - https:\/\/freesound.org\/people\/deleted_user_7020630\/sounds\/378394\/ - This work is licensed under the Creative Attribution 3.0",
+      "audioSource" : "[School bell](https://freesound.org/people/deleted_user_7020630/sounds/378394/) by [deleted_user_7020630](https://freesound.org/people/deleted_user_7020630) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "School Bell ",
       "image" : "🏫",
       "color" : "34C759"
     },
     {
-      "audioSource" : "JonasTisell - https:\/\/freesound.org\/people\/JonasTisell\/sounds\/442257\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[Slap (with reverb)](https://freesound.org/people/JonasTisell/sounds/442257/) by [JonasTisell](https://freesound.org/people/JonasTisell) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Slap",
       "image" : "✋",
       "color" : "FFCC00"
     },
     {
-      "audioSource" : "survivalzombie - https:\/\/freesound.org\/people\/survivalzombie\/sounds\/240015\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[Squeeze Toy](https://freesound.org/people/survivalzombie/sounds/240015/) by [survivalzombie](https://freesound.org/people/survivalzombie) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Squeeze Toy",
       "image" : "🧸",
       "color" : "FF9500"
     },
     {
-      "audioSource" : "lorenzgillner - https:\/\/freesound.org\/people\/lorenzgillner\/sounds\/274448\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[Toilet Flushing](https://freesound.org/people/lorenzgillner/sounds/274448/) by [lorenzgillner](https://freesound.org/people/lorenzgillner) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Toilet Flush",
       "image" : "🚽",
       "color" : "007AFF"
     },
     {
-      "audioSource" : "binxa - https:\/\/freesound.org\/people\/binxa\/sounds\/595834\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[Typing](https://freesound.org/people/binxa/sounds/595834/) by [binxa](https://freesound.org/people/binxa) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Typing",
       "image" : "⌨️",
       "color" : "D44A7A"
     },
     {
-      "audioSource" : "hermengarde - https:\/\/freesound.org\/people\/hermengarde\/sounds\/235845\/ - This work is licensed under the Creative Attribution 0",
+      "audioSource" : "[Cartoon spin](https://freesound.org/people/hermengarde/sounds/235845/) by [hermengarde](https://freesound.org/people/hermengarde) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Whistle",
       "image" : "😮‍💨",
       "color" : "A06B23"
     },
     {
-      "audioSource" : "indigosierra - https:\/\/freesound.org\/people\/indigosierra\/sounds\/82610\/ - This work is licensed under the Creative Attribution 0 ",
+      "audioSource" : "[scribble](https://freesound.org/people/indigosierra/sounds/82610/) by [indigosierra](https://freesound.org/people/indigosierra) is licensed under [CC BY 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "name" : "Writing",
       "image" : "✏️",
       "color" : "C2C2C2"
