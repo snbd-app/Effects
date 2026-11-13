@@ -26,7 +26,7 @@
       "color" : "FFCC00"
     },
     {
-      "audioSource" : "[Boing](https://freesound.org/people/juskiddink/sounds/140867/) by [juskiddink](https://freesound.org/people/juskiddink/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
+      "audioSource" : "[Boing](https://freesound.org/people/juskiddink/sounds/140867/) by [juskiddink](https://freesound.org/people/juskiddink/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Leveled and converted to mono.",
       "name" : "Boing",
       "image" : "arrowshape.bounce.right.fill",
       "color" : "ED75B6"
@@ -38,7 +38,7 @@
       "color" : "FF3B30"
     },
     {
-      "audioSource" : "[Ticking](https://freesound.org/people/LittleRainySeasons/sounds/335905/) by [LittleRainySeasons](https://freesound.org/people/LittleRainySeasons/) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "audioSource" : "[Ticking](https://freesound.org/people/LittleRainySeasons/sounds/335905/) by [LittleRainySeasons](https://freesound.org/people/LittleRainySeasons/) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Leveled.",
       "name" : "Clock Tick",
       "image" : "🕰",
       "color" : "ADADAD"
@@ -50,7 +50,7 @@
       "color" : "007AFF"
     },
     {
-      "audioSource" : "[Door Opening](https://freesound.org/people/AUDACITIER/sounds/632128/) by [AUDACITIER](https://freesound.org/people/AUDACITIER/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
+      "audioSource" : "[Door Opening](https://freesound.org/people/AUDACITIER/sounds/632128/) by [AUDACITIER](https://freesound.org/people/AUDACITIER/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Leveled.",
       "name" : "Door Open",
       "image" : "door.right.hand.open",
       "color" : "007AFF"
@@ -70,7 +70,7 @@
     {
       "name" : "Explosion",
       "color" : "A06B23",
-      "audioSource" : "[Huge Cinematic Explosion](https://freesound.org/people/musicace17/sounds/486551/) by [musicace17](https://freesound.org/people/musicace17) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "audioSource" : "[Huge Cinematic Explosion](https://freesound.org/people/musicace17/sounds/486551/) by [musicace17](https://freesound.org/people/musicace17) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Leveled.",
       "image" : "🧨"
     },
     {
@@ -80,13 +80,13 @@
       "color" : "EE82E4"
     },
     {
-      "audioSource" : "[Gong Hit](https://freesound.org/people/GowlerMusic/sounds/266566/) by [GowlerMusic](https://freesound.org/people/GowlerMusic) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
+      "audioSource" : "[Gong Hit](https://freesound.org/people/GowlerMusic/sounds/266566/) by [GowlerMusic](https://freesound.org/people/GowlerMusic) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Leveled.",
       "name" : "Gong",
       "image" : "0.circle.fill.ar",
       "color" : "734C16"
     },
     {
-      "audioSource" : "[perfect_kiss](https://freesound.org/people/gflower/sounds/179303/) by [gflower](https://freesound.org/people/gflower) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "audioSource" : "[perfect_kiss](https://freesound.org/people/gflower/sounds/179303/) by [gflower](https://freesound.org/people/gflower) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Leveled.",
       "name" : "Kiss",
       "image" : "💋",
       "color" : "C45FF6"
@@ -101,7 +101,7 @@
     {
       "name" : "Record Scratch",
       "color" : "5C5C5C",
-      "audioSource" : "[Clean Record Scratch](https://freesound.org/people/kwahmah_02/sounds/269476/) by [kwahmah_02](https://freesound.org/people/kwahmah_02) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)",
+      "audioSource" : "[Clean Record Scratch](https://freesound.org/people/kwahmah_02/sounds/269476/) by [kwahmah_02](https://freesound.org/people/kwahmah_02) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Leveled.",
       "image" : "opticaldisc.fill"
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "audioSource" : "[School bell](https://freesound.org/people/deleted_user_7020630/sounds/378394/) by [deleted_user_7020630](https://freesound.org/people/deleted_user_7020630) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
-      "name" : "School Bell ",
+      "name" : "School Bell",
       "image" : "🏫",
       "color" : "34C759"
     },
     {
-      "audioSource" : "[Slap (with reverb)](https://freesound.org/people/JonasTisell/sounds/442257/) by [JonasTisell](https://freesound.org/people/JonasTisell) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "audioSource" : "[Slap (with reverb)](https://freesound.org/people/JonasTisell/sounds/442257/) by [JonasTisell](https://freesound.org/people/JonasTisell) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Leveled.",
       "name" : "Slap",
       "image" : "✋",
       "color" : "FFCC00"
@@ -147,7 +147,7 @@
       "color" : "A06B23"
     },
     {
-      "audioSource" : "[scribble](https://freesound.org/people/indigosierra/sounds/82610/) by [indigosierra](https://freesound.org/people/indigosierra) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "audioSource" : "[scribble](https://freesound.org/people/indigosierra/sounds/82610/) by [indigosierra](https://freesound.org/people/indigosierra) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Leveled.",
       "name" : "Writing",
       "image" : "✏️",
       "color" : "C2C2C2"
@@ -156,7 +156,7 @@
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
   "name" : "Effects",
   "image" : "wand.and.stars.inverse",
-  "duration" : 169,
-  "size" : 16067984,
+  "duration" : 188,
+  "size" : 12599848,
   "description" : "A sample collection of general sounds from all different places and things."
 }
